@@ -19,7 +19,7 @@ function login(username, password) {
   }
 
   // Kiểm tra thông tin đăng nhập hợp lệ
-  if (username === 'admin' && password === '9999') {
+  if (username === 'admin' && password === '123') {
     return true;
   }
 
